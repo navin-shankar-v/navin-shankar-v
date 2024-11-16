@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @navin-shankar-v  
+- 👀 I’m interested in cloud computing, web development, and real-time systems.  
+- 🌱 I’m currently learning advanced cloud architectures, Terraform, and React while working on my **BidMyRide** project.  
+- 💞️ I’m looking to collaborate on projects involving FastAPI, Django, Kubernetes, and AWS.  
+- 📫 How to reach me: [Insert preferred contact information here]  
+- 😄 Pronouns: He/Him  
+- ⚡ Fun fact: I love turning complex cloud ideas into user-friendly solutions!  
