@@ -1,7 +1,6 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
+  <img src="https://user-images.githubusercontent.com/104893311/219148682-fd27b1a7-85a4-4ac7-8a49-6025a58fb62c.gif" alt="Mario Pixel Art" height="250px" width="600px">
 </p>
-
 <!--
 **navin-shankar-v/navin-shankar-v** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
