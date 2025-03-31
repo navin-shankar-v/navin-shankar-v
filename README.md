@@ -1,4 +1,5 @@
 <img src="https://capsule-render.vercel.app/api?type=venom&color=FF6E7F,E100FF&height=300&section=header&text=Welcome%20Everyone&fontSize=90&fontColor=ffffff" />
+[![404 Code GIF](https://media.giphy.com/media/Lny6Rw04nsOOc/giphy.gif)](https://giphy.com/gifs/code-404-javascript-Lny6Rw04nsOOc)
 
 <!--
 **navin-shankar-v/navin-shankar-v** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
