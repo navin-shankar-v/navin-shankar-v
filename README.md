@@ -4,8 +4,7 @@
 </p>
 
 <h1 align="center">
-  👋 Hello, everyone. Welcome to my GitHub!</h1>
-<h1 align="center">I’m Navinshankar</h1>
+  👋 Hello, everyone. Welcome to my GitHub! <be> I’m Navinshankar</h1>
 <p align = "center"> I'm a Software Engineer passionate about crafting powerful backend systems powering tomorrow. One line of code at a time.</p>
 
 
