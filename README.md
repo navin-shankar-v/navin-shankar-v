@@ -25,7 +25,18 @@
   I'm always open to collaborating on meaningful backend or AI projects. If you’re building something awesome — let’s connect!
 </p>
 
-[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
+[![Frontend](https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,react,vue,angular,flutter,reactnative,dart&perline=7)](https://skillicons.dev)
+
+[![Backend](https://skillicons.dev/icons?i=nodejs,django,flask,fastapi&perline=7)](https://skillicons.dev)
+
+[![Languages](https://skillicons.dev/icons?i=python,java,js,bash&perline=7)](https://skillicons.dev)
+
+[![Databases](https://skillicons.dev/icons?i=mysql,postgres,mongodb&perline=7)](https://skillicons.dev)
+
+[![Cloud & DevOps](https://skillicons.dev/icons?i=aws,gcp,azure,docker,linux&perline=7)](https://skillicons.dev)
+
+[![Tools](https://skillicons.dev/icons?i=git,github,postman,figma&perline=7)](https://skillicons.dev)
+
 
 <p align="center">
   🛠️ <em>"Code hard, stay curious, build for impact."</em>
