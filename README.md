@@ -25,6 +25,13 @@
   I'm always open to collaborating on meaningful backend or AI projects. If you’re building something awesome — let’s connect!
 </p>
 
+<h2> Social Links </h2>
+<p align="left">
+<a href="https://www.linkedin.com/in/sudharshann05/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn - in/sudharshann05" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@rajsudharshan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Youtube - @rajsudharshan" height="30" width="40" /></a>
+</p>
+
+
 <h2><img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> Languages and Tools</h2>
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,react,vue,angular,flutter,dart,nodejs,django,flask,fastapi,python,java,js,bash,mysql,postgres,mongodb,aws,gcp,azure,docker,linux,git,github,postman,figma,vscode&perline=15)](https://skillicons.dev)
