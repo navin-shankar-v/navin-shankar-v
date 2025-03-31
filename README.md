@@ -25,6 +25,8 @@
   I'm always open to collaborating on meaningful backend or AI projects. If you’re building something awesome — let’s connect!
 </p>
 
+[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
+
 <p align="center">
   🛠️ <em>"Code hard, stay curious, build for impact."</em>
 </p>
