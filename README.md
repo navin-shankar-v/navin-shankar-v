@@ -1,7 +1,8 @@
 <img src="https://capsule-render.vercel.app/api?type=venom&color=FF6E7F,E100FF&height=300&section=header&text=Welcome%20Everyone&fontSize=90&fontColor=ffffff" />
-![via GIPHY](https://media.giphy.com/media/Lny6Rw04nsOOc/giphy.gif)
 
+<h1>Im Navinshankar </h1>
 
+<div style="width:100%;height:0;padding-bottom:75%;position:relative;"><iframe src="https://giphy.com/embed/Lny6Rw04nsOOc" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/code-404-javascript-Lny6Rw04nsOOc">via GIPHY</a></p>
 <!--
 **navin-shankar-v/navin-shankar-v** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
