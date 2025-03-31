@@ -1,9 +1,16 @@
-<img src="https://capsule-render.vercel.app/api?type=venom&color=FF6E7F,E100FF&height=300&section=header&text=Welcome%20Everyone&fontSize=90&fontColor=ffffff" />
 
-<h1>Im Navinshankar </h1>
 <p align="center">
   <img src="https://media.giphy.com/media/Lny6Rw04nsOOc/giphy.gif" alt="404 Coding GIF" height="300px" width="900px">
 </p>
+
+<h1 align="center">
+  👋 Hello, everyone. Welcome to my GitHub!<br>
+  I’m Navinshankar — building the backend systems powering tomorrow. One line of code at a time.
+</h1>
+
+
+
+
 
 <!--
 **navin-shankar-v/navin-shankar-v** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -19,3 +26,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<!-- <img src="https://capsule-render.vercel.app/api?type=venom&color=FF6E7F,E100FF&height=300&section=header&text=Welcome%20Everyone&fontSize=90&fontColor=ffffff" /> -->
