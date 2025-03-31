@@ -7,7 +7,27 @@
   👋 Hello, everyone. Welcome to my GitHub! <br> I’m Navinshankar</h1>
 <p align = "center"> I'm a Software Engineer passionate about crafting powerful backend systems powering tomorrow. One line of code at a time.</p>
 
+<p>
+  I love working with Python and its frameworks like <strong>Django</strong> and <strong>Flask</strong>, and I’m always exploring better ways to architect APIs, manage databases, and optimize performance.
+</p>
 
+<p>
+  🚀 I'm currently working on projects involving:
+  <ul>
+    <li>🔐 Building secure user authentication flows using <strong>Clerk</strong></li>
+    <li>🏦 Integrating financial APIs like <strong>Plaid</strong> to sync real-time bank data</li>
+    <li>📊 Classifying medical images using deep learning (Chest X-rays with CNNs)</li>
+    <li>📱 Mobile-first budgeting apps to help users save better (think: StackUp)</li>
+  </ul>
+</p>
+
+<p>
+  I'm always open to collaborating on meaningful backend or AI projects. If you’re building something awesome — let’s connect!
+</p>
+
+<p align="center">
+  🛠️ <em>"Code hard, stay curious, build for impact."</em>
+</p>
 
 
 
