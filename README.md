@@ -6,6 +6,7 @@
 <h1 align="center">
   👋 Hello, everyone. Welcome to my GitHub! <br> I’m Navinshankar</h1>
 <p align = "center"> I'm a Software Engineer passionate about crafting powerful backend systems powering tomorrow. One line of code at a time.</p>
+<href = ""https://navin-shankar-v.github.io/Portfolio/><p align = "center">Portfolio</p></href>
 
 <p>
   I love working with Python and its frameworks like <strong>Django</strong> and <strong>Flask</strong>, and I’m always exploring better ways to architect APIs, manage databases, and optimize performance.
