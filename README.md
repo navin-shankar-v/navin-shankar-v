@@ -4,7 +4,9 @@
 </p>
 
 <h1 align="center">
-  👋 Hello, everyone. Welcome to my GitHub! <br> I’m Navinshankar</h1> <br> <h2 href = "https://navin-shankar-v.github.io/Portfolio/">Portfolio</h2>
+  👋 Hello, everyone. Welcome to my GitHub! <br> I’m Navinshankar</h1> <p align="center">
+  🔗 <a href="https://navin-shankar-v.github.io/Portfolio/" target="_blank">Portfolio</a>
+</p>
 <p align = "center"> I'm a Software Engineer passionate about crafting powerful backend systems powering tomorrow. One line of code at a time.</p>
 
 <p>
